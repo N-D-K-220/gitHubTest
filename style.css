@@ -1,0 +1,12 @@
+div{
+    width: 50%;
+    height: 50%;
+    background-color: rgba(180, 24, 24, 0.77);
+    text-align: center;
+    line-height: 200px;
+    border : 1.5px solid rgb(80, 9, 9);
+    margin: 100px auto;
+    color: white;
+    font-weight: bold;
+    border-radius: 50%;
+}
